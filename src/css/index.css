@@ -43,8 +43,7 @@ body {
 
 @font-face {
   font-family: "Dancing Script", cursive;
-  src: url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap")
-    format("woff");
+  src: url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
   font-weight: normal;
   font-style: normal;
 }
